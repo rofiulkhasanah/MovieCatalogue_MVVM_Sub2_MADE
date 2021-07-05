@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="description_course">Overview</string>
+    <string name="description_overview">Description Overview</string>
+    <string name="rating">Rating : %s</string>
+
+</resources>
