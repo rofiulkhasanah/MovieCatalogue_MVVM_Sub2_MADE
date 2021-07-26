@@ -1,4 +1,4 @@
-include ':fav'
-include ':core'
-rootProject.name = "MovieCatalogue"
 include ':app'
+rootProject.name = "MovieCatalogue"
+include ':core'
+include ':fav'
