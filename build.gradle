@@ -59,6 +59,8 @@ ext {
     kotlin_coroutines_version = '1.5.1-native-mt'
     lifecycle_version = "2.3.1"
 
+    koin_version = "2.1.6"
+
     cardview_version = "1.0.0"
 
 }
